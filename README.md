@@ -103,4 +103,11 @@ Special thanks to:
 
 ---
 
-That’s pretty much it! Have fun messing with speech files and seeing what your computer thinks you're saying 😄
+## 📸Screen Shot
+![Image](https://github.com/user-attachments/assets/e3a5c9f6-b3b0-4d3e-932b-1df0a8084e7a)
+![Image](https://github.com/user-attachments/assets/67efd6e2-4de6-4fbb-a986-210315e810d4)
+![Image](https://github.com/user-attachments/assets/23553c4d-e79c-413e-9e57-de10144ade0d)
+![Image](https://github.com/user-attachments/assets/4d293ba9-da09-4f54-bc1b-0ca1bce90e76)
+![Image](https://github.com/user-attachments/assets/fc1a762f-b30f-42c3-a8b8-caeebeae3db6)
+![Image](https://github.com/user-attachments/assets/380fb0d4-fc70-4159-b819-885a9fce518b)
+![Image](https://github.com/user-attachments/assets/d717b7d6-6df1-4add-8edb-7071b262ce37)
