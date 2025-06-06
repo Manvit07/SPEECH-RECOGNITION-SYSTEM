@@ -86,15 +86,6 @@ You can even say random things like:
 
 ---
 
-## 🔮 Ideas for Improvement
-
-- Add a GUI or voice button to record directly
-- Try different models (like Whisper from OpenAI)
-- Support more languages
-- Auto-detect speaker or separate multiple people
-
----
-
 ## 🤝 Credits
 
 This is a self-made, beginner-friendly project for learning AI, speech processing, and Python basics. Built with love during the **CodTech AI Internship 2025** 💙
